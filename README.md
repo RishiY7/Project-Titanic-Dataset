@@ -28,8 +28,10 @@ I am using the **Titanic dataset from Kaggle**:
    cd Project-Titanic-Dataset
 
 2. Install dependencies:
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
-3.Run Streamlit:
-streamlit run app.py
+3. Run Streamlit:
+   ```bash
+   streamlit run app.py
 
