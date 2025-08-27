@@ -3,6 +3,8 @@
 This is a simple and interactive **Streamlit Dashboard** built using the famous Titanic dataset.  
 The dashboard helps you explore, visualize, and understand the Titanic passenger survival data.  
 
+🔗 **Live Demo:** [Click here to try it!](https://project-titanic-dataset.streamlit.app/)
+
 ---
 
 ## ✨ Features
